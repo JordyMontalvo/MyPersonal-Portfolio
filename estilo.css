@@ -74,10 +74,10 @@ html{
     border-radius: 40px;
 }
 .inicio .contenido-banner img{
-    margin-top: 40px;
+    margin-top: 60px;
     border: 10px solid #1CB698;
     display: block;
-    width: 80%;
+    width: 65%;
     margin: auto;
     border-radius: 100%;
 }
