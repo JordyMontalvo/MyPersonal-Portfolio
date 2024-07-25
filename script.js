@@ -30,7 +30,13 @@ function efectoHabilidades(){
         habilidades[6].classList.add("trabajo");
         habilidades[7].classList.add("creatividad");
         habilidades[8].classList.add("dedicacion");
-        habilidades[9].classList.add("proyect");
+        habilidades[9].classList.add("javascript");
+        habilidades[10].classList.add("proyect");
+        habilidades[12].classList.add("proyect");
+        habilidades[13].classList.add("proyect");
+        habilidades[14].classList.add("proyect");
+        habilidades[15].classList.add("proyect");
+        habilidades[16].classList.add("proyect");
     }
 }
 document.getElementById("downloadCvBtn").addEventListener("click", function() {
