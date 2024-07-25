@@ -35,7 +35,7 @@ function efectoHabilidades(){
 }
 document.getElementById("downloadCvBtn").addEventListener("click", function() {
     // Reemplaza con la URL directa de tu archivo PDF en GitHub
-    var pdfUrl = "https://github.com/JordyMontalvo/MyPersonal-Portfolio/raw/master/CV/Jordy_Montalvo_CV.pdf";
+    var pdfUrl = "https://github.com/JordyMontalvo/MyPersonal-Portfolio/raw/main/CV/Jordy_Montalvo_CV.pdf";
     // Abre el PDF en una nueva pestaña
     window.open(pdfUrl, '_blank');
 });
